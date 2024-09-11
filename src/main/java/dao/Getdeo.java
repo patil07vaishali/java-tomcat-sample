@@ -7,7 +7,7 @@ package dao;
 import java.sql.*;
 import model.Users;
 
-public class Getdao
+public class Getdeo
 {
 	public Users getUser(int emp_no)
 	{
